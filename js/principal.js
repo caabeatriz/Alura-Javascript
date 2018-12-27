@@ -9,7 +9,7 @@ var peso = tdPeso.textContent;
 // Altura do paciente
 var tdAltura = paciente.querySelector(".info-altura");
 var altura = tdAltura.textContent;
-
+// ughugh
 
 // Imc do paciente
 
